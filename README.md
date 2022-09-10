@@ -11,6 +11,12 @@
 
 - 📫 My email is **lipskiyartur@gmail.com**
 
+<h2>My projects:</h2>        <ul>
+            <li><a href="https://artlp.github.io/TinDog-Start-master/">TinDog site (CSS, bootstrap)</a></li>
+            <li><a href="https://artlp.github.io/Drum-Kit/">Drum kit simulator (JavaScript)</a></li>
+            <li><a href="https://artlp.github.io/simon/">Simon game (JavaScript)</a></li>
+        </ul>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/artur-lipskii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="artur-lipskii" height="30" width="40" /></a>
