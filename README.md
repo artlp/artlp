@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artlp&label=Profile%20views&color=0e75b6&style=flat-square" alt="artlp" /> </p>
 
-- 🔭 I’m currently working on **studying at MASA in Israel**
+- 🔭 I’m currently **studying in Israel on MASA Web-Development program**
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React, Node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/artlp](https://github.com/artlp)
+- 👨‍💻 All of my projects are available here at github.
 
-- 📫 How to reach me **lipskiyartur@gmail.com**
+- 📫 My email is **lipskiyartur@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
