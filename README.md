@@ -13,6 +13,7 @@
 
 <h2>My projects:</h2>        <ul>
             <li><a href="https://artlp.github.io/TinDog-Start-master/">TinDog site (CSS, bootstrap)</a></li>
+            <li><a href="https://artlp.github.io/odin-landing-page/">Landing page for Odin Project (CSS flex)</a></li>
             <li><a href="https://artlp.github.io/Drum-Kit/">Drum kit simulator (JavaScript)</a></li>
             <li><a href="https://artlp.github.io/simon/">Simon game (JavaScript)</a></li>
         </ul>
