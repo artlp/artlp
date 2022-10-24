@@ -17,6 +17,7 @@
             <li><a href="https://artlp.github.io/Drum-Kit/">Drum kit simulator (JavaScript)</a></li>
             <li><a href="https://artlp.github.io/simon/">Simon game (JavaScript)</a></li>
             <li><a href="https://artlp.github.io/rock-paper-scissors/">Rock Paper Scissors (JavaScript)</a></li>
+            <li><a href="https://artlp.github.io/GuessTheNumber/">Guess the number game (JavaScript)</a></li>
         </ul>
 
 <h3 align="left">Connect with me:</h3>
