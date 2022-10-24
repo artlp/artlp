@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Artur Lipskii</h1>
-<h3 align="center">A learning frontend developer from Russia</h3>
+<h3 align="center">A learning frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artlp&label=Profile%20views&color=0e75b6&style=flat-square" alt="artlp" /> </p>
 
