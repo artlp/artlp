@@ -18,6 +18,7 @@
             <li><a href="https://artlp.github.io/simon/">Simon game (JavaScript)</a></li>
             <li><a href="https://artlp.github.io/rock-paper-scissors/">Rock Paper Scissors (JavaScript)</a></li>
             <li><a href="https://artlp.github.io/GuessTheNumber/">Guess the number game (JavaScript)</a></li>
+            <li><a href="https://artlp.github.io/CSS-playground/">CSS Playground (JavaScript DOM)</a></li>
         </ul>
 
 <h3 align="left">Connect with me:</h3>
