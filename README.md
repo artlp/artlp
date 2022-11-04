@@ -21,6 +21,7 @@
             <li><a href="https://artlp.github.io/CSS-playground/">CSS Playground (JavaScript DOM)</a></li>
             <li><a href="https://artlp.github.io/NIM-game/">NIM game (JavaScript)</a></li>
             <li><a href="https://artlp.github.io/Etch-a-sketch/">Etch-a-Sketch (JavaScript DOM)</a></li>
+            <li><a href="https://artlp.github.io/Hangman-neon/">Hangman game (JavaScript, CSS)</a></li>
         </ul>
 
 <h3 align="left">Connect with me:</h3>
