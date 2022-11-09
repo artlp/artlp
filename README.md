@@ -22,7 +22,7 @@
             <li><a href="https://artlp.github.io/NIM-game/">NIM game (JavaScript)</a></li>
             <li><a href="https://artlp.github.io/Etch-a-sketch/">Etch-a-Sketch (JavaScript DOM)</a></li>
             <li><a href="https://artlp.github.io/Hangman-neon/">Hangman game (JavaScript, CSS)</a></li>
-            <li><a href="https://artlp.github.io/Bulls-and-cows/">Bulls and Cows game (JavaScript)</a></li>
+            <li><a href="https://artlp.github.io/Bulls-and-Cows/">Bulls and Cows game (JavaScript)</a></li>
         </ul>
 
 <h3 align="left">Connect with me:</h3>
