@@ -26,6 +26,7 @@
             <li><a href="https://artlp.github.io/Bulls-and-Cows/">Bulls and Cows game (JavaScript)</a></li>
             <li><a href="https://artlp.github.io/odin-calculator/">Calculator (JavaScript)</a></li>
             <li><a href="https://artlp.github.io/odin-grid-project/">Entertainment site, WIP (CSS Grid)</a></li>
+            <li><a href="https://artlp.github.io/Library-js/">Book Library (JavaScript, CSS)</a></li>
         </ul>
 
 <h3 align="left">Connect with me:</h3>
