@@ -28,6 +28,7 @@
             <li><a href="https://artlp.github.io/odin-grid-project/">Entertainment site, WIP (CSS Grid)</a></li>
             <li><a href="https://artlp.github.io/Library-js/">Book Library (JavaScript, CSS)</a></li>
             <li><a href="https://artlp.github.io/TicTacToe/">Tic-Tac-Toe game (JavaScript (OOP), CSS)</a></li>
+            <li><a href="https://artlp.github.io/React-toolslist/">Online tools library (React, SCSS) - WIP</a></li>
         </ul>
 
 <h3 align="left">Connect with me:</h3>
