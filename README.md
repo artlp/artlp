@@ -1,18 +1,21 @@
-<h1 align="center">Hi, I'm Artur Lipskii</h1>
+<h1 align="center">Hi, I'm Artur Lipski</h1>
 <h3 align="center">A learning frontend developer</h3>
-<h5><a href="https://artlp.github.io/Portfolio1/">portfolio</a></h5>
+<h3><a href="https://artlp.github.io/Portfolio1/">My portfolio website (same projects as links below)</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artlp&label=Profile%20views&color=0e75b6&style=flat-square" alt="artlp" /> </p>
 
-- 🔭 I’m currently **studying in Israel on MASA Web-Development program**
+- ⭐ 6+ years of experience in e-commerce (website administration, content management, marketing, development team lead).
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, React, Node.js**
+- 🔭 Moved to Israel to become frontend / fullstack web developer.
+
+- 🌱 I’m currently learning **React, Node.js**
 
 - 👨‍💻 All of my projects are available here at github.
 
 - 📫 My email is **lipskiyartur@gmail.com**
 
-<h2>My projects:</h2>        <ul>
+<h2>My projects:</h2> 
+<ul>
             <li><a href="https://artlp.github.io/TinDog-Start-master/">TinDog site (CSS, bootstrap)</a></li>
             <li><a href="https://artlp.github.io/odin-landing-page/">Landing page for Odin Project (CSS flex)</a></li>
             <li><a href="https://artlp.github.io/Drum-Kit/">Drum kit simulator (JavaScript)</a></li>
